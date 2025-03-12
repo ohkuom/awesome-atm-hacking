@@ -40,5 +40,5 @@ A curated list of awesome ATM hacking resources.
 	- [Part 2](https://boschko.ca/atm-kiosk-hacking-phd2022/)
 ## Talks
 - [Hacking ATMs on a Budget (Marcell Molnár)](https://www.youtube.com/watch?v=l-cplhlRF2k)
-- [Hacking Next-Gen ATMs(Weston Hecker)](https://www.youtube.com/watch?v=kno0vDhbb7Y)
+- [Hacking Next-Gen ATMs (Weston Hecker)](https://www.youtube.com/watch?v=kno0vDhbb7Y)
 - [Jackpotting Automated Teller machines Redux (Barnaby Jack)](https://www.youtube.com/watch?v=YsXLwdw76-Y)
