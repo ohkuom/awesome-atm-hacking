@@ -13,6 +13,7 @@ A curated list of awesome ATM hacking resources.
 - [Advanced methods for finding security vulnerabilities](https://medium.com/@redfanatic7/atm-hacking-advanced-methods-for-finding-security-vulnerabilities-7e01e71ffe96)
 - [Dark Web and ATM hacking](https://www.cloudsek.com/blog/dark-web-and-atm-hacking)
 - [Replay Attacks](https://hackinglab.cz/en/blog/audit-atm-replay-attack/)
+- [Screwed Drivers](https://eclypsium.com/wp-content/uploads/Screwed-Drivers-Open-ATMs-to-Attack.pdf)
 - [Logical Attacks](https://go.group-ib.com/hubfs/report/group-ib-cobalt-logical-attacks-on-atms-threat-research-2016-en.pdf)
 ## ATM Security reports
 - [Kaspersky](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/02/20114930/Future_ATM_attacks_report_eng.pdf)
