@@ -1,5 +1,5 @@
 # Awesome ATM Hacking
-A curated list of awesome ATM hacking resources.
+A curated list of awesome ATM hacking resources. \n
 Feel free to suggest blogs, papers and talks.
 ## Offensive
 - Everything you need to know about ATM attacks and fraud
