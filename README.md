@@ -36,7 +36,7 @@ Feel free to suggest blogs, papers and talks.
 - [CEN/XFS Wikipedia](https://en.wikipedia.org/wiki/CEN/XFS)
 - [CEN/XFS Workshop](https://www.cencenelec.eu/areas-of-work/xfs_cwa16926_340_release/)
 - [Analyzing XFS API Calls](https://kaimi.io/en/2024/07/analyzing-xfs-api-calls/)
-## Malwares:
+## Malwares
 - [Ploutus](https://cloud.google.com/blog/topics/threat-intelligence/new-ploutus-variant/)
 - [Cutlet](https://securelist.com/atm-malware-is-being-sold-on-darknet-market/81871/)
 - [GreenDispenser](https://www.proofpoint.com/us/threat-insight/post/Meet-GreenDispenser)
