@@ -19,8 +19,10 @@ Feel free to suggest blogs, papers and talks.
 - [Screwed Drivers](https://eclypsium.com/wp-content/uploads/Screwed-Drivers-Open-ATMs-to-Attack.pdf)
 - [Logical Attacks](https://go.group-ib.com/hubfs/report/group-ib-cobalt-logical-attacks-on-atms-threat-research-2016-en.pdf)
 - [Dark Web and ATM hacking](https://www.cloudsek.com/blog/dark-web-and-atm-hacking)
+- [ATM Card Skimming Dection](https://shieldsbusinesssolutions.com/blog/atm-skimming/)
 -  Kiosk Breakout
 	- [Introduction to Kiosk Breakout](https://www.secquest.co.uk/white-papers/introduction-to-kiosk-breakout)
+    - [Kiosk Mode Breakout Tips & Tricks](https://github.com/ikarus23/kiosk-mode-breakout/tree/main)
 	- [Escaping from Kiosk](https://book.hacktricks.wiki/en/hardware-physical-access/escaping-from-gui-applications.html)
 	- [Restricted Browser](https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0)
 	- [Escaping ATM kiosk](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/adventures-in-atm-hacking/)
@@ -58,3 +60,4 @@ Feel free to suggest blogs, papers and talks.
 - [Where’s the Money: Defeating ATM Disk Encryption](https://www.youtube.com/watch?v=4-Xsl3ufFp8)
 - [Dissecting ATM Malware](https://www.youtube.com/watch?v=kf1HjEacT6g)
 - [ATM Security, Preventing Attacks & ITM Exploration](https://www.youtube.com/watch?v=NOQSABfOIfM)
+- [Skimmers, Shimmers, and You](https://www.youtube.com/watch?v=rK1M6zeuHbA)
